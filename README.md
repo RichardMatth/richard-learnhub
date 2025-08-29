@@ -18,5 +18,5 @@ Este projeto está licenciado sob a **Creative Commons BY-ND 4.0**. Você pode c
 
 ##  Autor
 
-Feito com dedicação, amor e carinho por **Richard**  
+Feito com dedicação, amor e carinho por **Richard Matheus Farias**  
 Se quiser trocar ideia ou sugerir melhorias, fique à vontade para abrir uma issue ou me chamar! 
