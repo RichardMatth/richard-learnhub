@@ -16,7 +16,7 @@ Facilitar o acesso a conteúdos práticos e teóricos para quem está aprendendo
 
 Este projeto está licenciado sob a **Creative Commons BY-ND 4.0**. Você pode compartilhar, mas **não modificar** o conteúdo.  
 
-## 🙋‍♂️ Autor
+##  Autor
 
 Feito com dedicação, amor e carinho por **Richard**  
 Se quiser trocar ideia ou sugerir melhorias, fique à vontade para abrir uma issue ou me chamar! 
